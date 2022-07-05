@@ -1,5 +1,5 @@
 
-![](./images/header.png)
+![](profile/images/header.png)
 
 ### Create world class applications quickly and confidently with Native Extensions for Adobe AIR, Unity and Haxe.
 

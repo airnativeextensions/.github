@@ -1,5 +1,5 @@
 
-![](images/header.png)
+![](./images/header.png)
 
 ### Create world class applications quickly and confidently with Native Extensions for Adobe AIR, Unity and Haxe.
 
@@ -10,7 +10,9 @@ Our mobile solutions allow developers to fast-forward development and focus on b
 [See the extensions](https://airnativeextensions.com/)
 
 
-This repository forms the public extensions that we develop for the community. 
+This repository forms the public extensions that we develop for the community and provides access to our extensions for subscribed developers.
 
+---
 
+[air native extensions](https://airnativeextensions.com)
 by [distriqt //](https://distriqt.com)

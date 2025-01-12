@@ -15,4 +15,3 @@ This repository forms the public extensions that we develop for the community an
 ---
 
 [air native extensions](https://airnativeextensions.com)
-by [distriqt //](https://distriqt.com)
